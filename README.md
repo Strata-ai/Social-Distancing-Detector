@@ -8,9 +8,10 @@ This softare was developed to be open-source and free for all Miami-Dade (and be
 
 ## What you need installed:
 - Python 3.7
-- Opencv(CV2) 4.2
-- Pumpy 1.14
-- Argparse
+- OpenCV(CV2) 4.2
+- PyQt5
+- numpy 1.14
+- argparse
 
 
 ## Installation &nbsp;
