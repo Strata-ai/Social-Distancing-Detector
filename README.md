@@ -15,12 +15,12 @@ This softare was developed to be open-source and free for all Miami-Dade (and be
 
 
 ## Installation &nbsp;
-**With [Python](https://www.python.org/) installed:**
+**With prerequisites installed:**
 ```sh
 # Get the latest repository version of SDD
 $ git clone https://github.com/Strata-ai/Social-Distancing-Detector.git
-
 ```
+**Note:** the Yolo3 weights are not included in thsi repo. You can download it from https://pjreddie.com/media/files/yolov3.weights and put it in "yolo3" folder
 
 ## Running the Application:
 
