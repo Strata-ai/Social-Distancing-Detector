@@ -19,6 +19,8 @@ This softare was developed to be open-source and free for all Miami-Dade (and be
 ```sh
 # Get the latest repository version of SDD
 $ git clone https://github.com/Strata-ai/Social-Distancing-Detector.git
+
+ccc
 ```
 
 ## Running the Application:
@@ -26,9 +28,13 @@ $ git clone https://github.com/Strata-ai/Social-Distancing-Detector.git
 **From terminal:**
 ```sh
 # Chabge directory to SDD directory 
-cd Social-Distancing-Detector
+$ cd Social-Distancing-Detector
+
+
 # Run the python program
-python main.py
+$python main.py
+
+
 # You should see a window like below:
 
 
