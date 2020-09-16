@@ -34,8 +34,7 @@ $ python main.py
 
 # You should see a window like below:
 ```
-![Image of Main Screen]
-(images/main-screen.png)
+![Image of Main Screen](https://github.com/Strata-ai/Social-Distancing-Detector/images/main-screen.png)
 
 ## Configuration:
 
