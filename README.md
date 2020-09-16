@@ -38,16 +38,12 @@ $ python main.py
 
 ## Configuration:
 
-**From terminal:**
 ```sh
-# Chabge directory to SDD directory 
-cd Social-Distancing-Detector
-# Run the python program
-python main.py
-# You should see a window like below:
-
-
+# Click on "configuration" button 
+# You should see teh following dialog:
 ```
+![Image of Main Screen](images/config-dialog.png)
+
 
 ## Compatibility
 SDD is built primarily with Python and will operate within any modern version of Windows or MacOS.
