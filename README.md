@@ -34,7 +34,8 @@ $ python main.py
 
 # You should see a window like below:
 ```
-![Image of Main Screen](images/main-screen.png)
+<img src="images/main-screen.png" alt="Image of Main Screen" width="80%"/>
+
 
 ## Configuration:
 
