@@ -30,10 +30,8 @@ ccc
 # Chabge directory to SDD directory 
 $ cd Social-Distancing-Detector
 
-
 # Run the python program
-$python main.py
-
+$ python main.py
 
 # You should see a window like below:
 
