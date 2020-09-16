@@ -49,26 +49,6 @@ $ python main.py
 SDD is built primarily with Python and will operate within any modern version of Windows or MacOS.
 
 
-## Support
-Need help or have a question?
-- [Frequently Asked Questions (FAQ)](http://)
-- [Tutorials](http://)
-- [Community support](http://)
-
-
-
-## Issue Submission
-Please read the [submission guidelines](http://) and [code of conduct](http://) before opening a new issue.  Click [here](https://) to search/post issues in this repository.
-
-## Contribute
-There are many different ways you can contribute to SDD:
-- answering questions on [Github](http://)
-- improving the [documentation](https://s)
-- translating the [documentation](https://) to your native language
-- troubleshooting [reported issues](http://)
-- and [submitting patches](http://).
-
-
 ## Links
 - [Strata.ai Website](http://strata.ai/)
 - [Miami-Dade Beacon Council Website](http://)
