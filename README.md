@@ -33,10 +33,9 @@ $ cd Social-Distancing-Detector
 $ python main.py
 
 # You should see a window like below:
+```
 ![Image of Main Screen]
 (images/main-screen.png)
-
-```
 
 ## Configuration:
 
