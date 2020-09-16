@@ -75,9 +75,7 @@ There are many different ways you can contribute to SDD:
 
 
 ## Team
-SDD is actively maintained with the help of many amazing contributors. Our core team consists of:
-
-// PEOPLE GO HERE.
+SDD is actively maintained with the help of many amazing contributors
 
 [Strata.ai](https://sailsjs.com/about) is a strategy and venture building firm focused on the exponentiality of Decision Science, Artificial Intelligence, and Extended Reality.
  
