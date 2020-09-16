@@ -43,7 +43,7 @@ $ python main.py
 # Click on "configuration" button 
 # You should see teh following dialog:
 ```
-![Image of Main Screen](images/config-dialog.png)
+<img src="images/config-dialog.png" alt="Image of Configurationn" width="80%"/>
 
 
 ## Compatibility
