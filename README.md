@@ -18,24 +18,33 @@ This softare was developed to be open-source and free for all Miami-Dade (and be
 **With [Python](https://www.python.org/) installed:**
 ```sh
 # Get the latest repository version of SDD
-$ pip install package
+$ git clone https://github.com/Strata-ai/Social-Distancing-Detector.git
 ```
 
 ## Running the Application:
 
 **From terminal:**
 ```sh
-# Run the analysis
-python command here
+# Chabge directory to SDD directory 
+cd Social-Distancing-Detector
+# Run the python program
+python main.py
+# You should see a window like below:
+
+
 ```
 
-**Then review the results:**
-```sh
-# cd into the new folder
-cd results/
+## Configuration:
 
-# run file
-pythong file.mov
+**From terminal:**
+```sh
+# Chabge directory to SDD directory 
+cd Social-Distancing-Detector
+# Run the python program
+python main.py
+# You should see a window like below:
+
+
 ```
 
 ## Compatibility
