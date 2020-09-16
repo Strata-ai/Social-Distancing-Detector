@@ -41,7 +41,11 @@ $ python main.py
 
 ```sh
 # Click on "configuration" button 
-# You should see teh following dialog:
+# You should see the following dialog:
+
+#- The first item indicates the source of the video. You can include the address of a video file or put "camera" for the webcam.  
+#- The next four lines are coordinates of four corners of the "Regigon of Interest (ROI)" on the video frame.
+#- The last two lines are the width and height of the ROI in centimeters. 
 ```
 <img src="images/config-dialog.png" alt="Image of Configurationn" width="80%"/>
 
