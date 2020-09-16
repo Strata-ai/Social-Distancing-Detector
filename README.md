@@ -39,7 +39,7 @@ $ python main.py
 
 ## Configuration:
 
-Click on "configuration" button 
+Click on "configuration" button. 
 You should see the following dialog:
 
 - The first item indicates the source of the video. You can include the address of a video file or put "camera" for the webcam.  
