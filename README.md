@@ -55,7 +55,7 @@ SDD is built primarily with Python and will operate within any modern version of
 
 ## Links
 - [Strata.ai Website](http://strata.ai/)
-- [Miami-Dade Beacon Council Website](http://)
+- [Miami-Dade Beacon Council Website](https://www.beaconcouncil.com/)
 
 
 ## Team
